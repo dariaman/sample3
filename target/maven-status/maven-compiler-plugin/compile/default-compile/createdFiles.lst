@@ -4,6 +4,7 @@ sample3\Controllers\UserController.class
 sample3\services\UserService.class
 sample3\config\HibernateConfig.class
 sample3\services\UserServiceImpl.class
+Crypt\TripleDESTest.class
 sample3\config\WebConfig.class
 sample3\models\User.class
 sample3\config\WebInitializer.class
